@@ -1,2 +1,0 @@
-# fdclb
-smart-contract Keshav
