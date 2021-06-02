@@ -1,4 +1,8 @@
 /**
+ *Submitted for verification at Etherscan.io on 2021-05-26
+*/
+
+/**
  *Submitted for verification at Etherscan.io on 2021-03-11
 */
 
@@ -141,7 +145,7 @@ contract FDCLB is StandardToken, Controlled {
 
     string public constant symbol = "FDCLB";
 
-    uint8 public constant decimals = 3;
+    uint8 public constant decimals = 18;
 
     
     uint unlockTime;
